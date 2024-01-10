@@ -1,0 +1,18 @@
+.h2{
+    border: 5px solid red;
+    border-radius: 3px;
+    color: blue;
+
+}
+.para1{
+    border: 3px dotted green;
+    border-radius: 5px;
+    text-align: center;
+    color: brown;
+    text-transform: capitalize;
+
+}
+.hd{
+    color: brown;
+    
+}
